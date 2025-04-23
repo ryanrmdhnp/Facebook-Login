@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Try logging in again</name>
+   <tag></tag>
+   <elementGuidId>64db881f-5fcb-4f56-b482-c482f788bc0b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='u_0_1_Kx']/div/div[3]/div/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.uiIconText</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4f943125-e3fe-4040-ae68-6c2ffdacd57d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>uiIconText</value>
+      <webElementGuid>72d68ad5-1594-4361-ac25-2d0ba175a3b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/login.php?lwv=200</value>
+      <webElementGuid>eaaf8ed6-0579-4cd8-80fd-01a31c6c4ffa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Try logging in again</value>
+      <webElementGuid>f850f1d2-94b6-44ae-b784-a41d5876be30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;u_0_1_Kx&quot;)/div[@class=&quot;mvl ptm uiInterstitial uiInterstitialLarge uiBoxWhite&quot;]/div[@class=&quot;uiInterstitialBar uiBoxGray topborder&quot;]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;pts&quot;]/a[@class=&quot;uiIconText&quot;]</value>
+      <webElementGuid>2ab26e3b-016f-42c5-945b-c4bff2957817</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='u_0_1_Kx']/div/div[3]/div/div[2]/a</value>
+      <webElementGuid>ea284728-4731-4d30-b087-b111b8930523</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Try logging in again')]</value>
+      <webElementGuid>2263ca90-285c-4736-beed-f662a3ed09d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Secure My Account'])[1]/following::a[1]</value>
+      <webElementGuid>fcdfb9ca-e414-46c4-b096-e564cb44a8c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset my password'])[1]/following::a[2]</value>
+      <webElementGuid>53cdb00f-c1b5-4753-acfb-2815929d2b9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English (UK)'])[1]/preceding::a[1]</value>
+      <webElementGuid>b7ce12e8-4881-4228-acb2-b4905eb7ce22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bahasa Indonesia'])[1]/preceding::a[1]</value>
+      <webElementGuid>fc5e02b8-ee96-4ab1-bff3-a8b240d664a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Try logging in again']/parent::*</value>
+      <webElementGuid>d6152815-67c4-4302-88a5-90b7977ecdaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/login.php?lwv=200')]</value>
+      <webElementGuid>94a3c417-f996-496c-94db-22fc487f78bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>e4170538-ae0a-4161-a99e-45679d2c1fe6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/login.php?lwv=200' and (text() = 'Try logging in again' or . = 'Try logging in again')]</value>
+      <webElementGuid>4a2b2666-b6a1-41c0-8426-234588ace633</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

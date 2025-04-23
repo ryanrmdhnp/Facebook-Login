@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_Jumlah notifikasi belum dibaca_xuk3077 x_f9263a</name>
+   <tag></tag>
+   <elementGuidId>098ee58e-6b33-455f-9541-9ec69c378f1d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mount_0_0_Ur']/div/div/div/div[2]/div[4]/div/div/div/ul</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.xuk3077.x78zum5.x1iyjqo2.xl56j7k.x1p8ty84.x1na7pl.x88anuq</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>61bfa2be-922f-480c-99bd-43d0a633e636</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xuk3077 x78zum5 x1iyjqo2 xl56j7k x1p8ty84 x1na7pl x88anuq</value>
+      <webElementGuid>99b82ec3-cf53-4d28-8ef8-298a5c6e8b71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mount_0_0_Ur&quot;)/div[1]/div[1]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z&quot;]/div[2]/div[@class=&quot;xds687c x17qophe xixxii4 x13vifvy x1vjfegm&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z x1ve1bff x78zum5 xdt5ytf x1s65kcs&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z x78zum5 xdt5ytf x13a6bvl&quot;]/div[@class=&quot;x78zum5 x1s65kcs xl56j7k&quot;]/ul[@class=&quot;xuk3077 x78zum5 x1iyjqo2 xl56j7k x1p8ty84 x1na7pl x88anuq&quot;]</value>
+      <webElementGuid>a1a7b612-a629-4f21-9c38-ef051ee695ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mount_0_0_Ur']/div/div/div/div[2]/div[4]/div/div/div/ul</value>
+      <webElementGuid>85e38a24-2d1a-4caa-8e83-124bb4db8d78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah notifikasi belum dibaca'])[1]/preceding::ul[1]</value>
+      <webElementGuid>767e45c4-fe0f-4dab-99fb-b48c4bfeb53e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu Facebook'])[1]/preceding::ul[1]</value>
+      <webElementGuid>17104bc2-8610-42c3-8bdf-fadbfb4e280f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul</value>
+      <webElementGuid>ac982179-f9b4-45e6-b451-e86aadc319e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
